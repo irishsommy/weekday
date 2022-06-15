@@ -1,0 +1,39 @@
+h1 {
+  color: goldenrod;
+}
+ul {
+  color: azure;
+}
+table {
+  border: 2px solid;
+}
+th {
+  border: 2px solid;
+}
+td {
+  border: 2px solid;
+}
+form {
+  background-color: aliceblue;
+}
+p {
+  color: brown;
+}
+
+/* styling continues here */
+
+button {
+  width: 100px;
+  height: 50px;
+  background-color: aqua;
+  border-radius: 17px;
+  border: none;
+}
+
+.new {
+  border: dashed;
+}
+
+#firstid {
+  border-radius: 17px;
+}
